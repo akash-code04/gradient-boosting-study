@@ -194,8 +194,8 @@ Open the `.ipynb` file and run the notebook cells.
 Developed at **Pimpri Chinchwad College of Engineering (PCCOE), Pune**.
 
 **124B1D058 Ayush Gade**
-**124B1D059 Akash Gajare**
-**124B1D063 Aayush Patil**
-**124B1D064 Tejas Nemade**
+**| 124B1D059 Akash Gajare**
+**| 124B1D063 Aayush Patil**
+**| 124B1D064 Tejas Nemade**
 
 ### From a 2001 statistical framework to modern high-performance GBDTs.
